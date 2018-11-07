@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterPawsideApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.1",
+    "jwtSecretKey": "NGEyNzAwMzA3NGVkNDI4MGU4MmZkZDVjOTNhNjA3MTI0YzU0ODI5NjQ4YTJhYjQxOTRkMWMxNzVlMDQwYTljNDZmMWJmY2ExOWUwNDYzNmExYTkyMTdiYjMzMjk5NzRlYTI0MTA0NmIyNzBlYTYyMWM4YmIyZTZmNDMwY2FhYjc="
+  },
+  "git-provider": "GitHub",
+  "git-company": "rekavihari",
+  "repository-name": "jhipster-pawside-application"
+}
